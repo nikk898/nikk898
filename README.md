@@ -4,7 +4,7 @@
 
 - I'm a curious and hardworking dev who's constantly looking to learn more.
 
-- I'm currently working on a web search engine project, just like Google Search!
+- I'm currently developing a web search engine project, just like Google Search!
 
 ## Technical Habilities:
 
